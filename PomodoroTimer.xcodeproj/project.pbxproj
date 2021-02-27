@@ -1,0 +1,345 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		43AD2F8B20A3D17B00A3428D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43AD2F8A20A3D17B00A3428D /* AppDelegate.swift */; };
+		43AD2F9220A3D17B00A3428D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43AD2F9120A3D17B00A3428D /* Assets.xcassets */; };
+		43AD2FA320A3D50800A3428D /* tomato.png in Resources */ = {isa = PBXBuildFile; fileRef = 43AD2FA220A3D50800A3428D /* tomato.png */; };
+		43AD2FA720A3D65600A3428D /* autocolante-decorativo-tomate-esborrachado-1692.png in Resources */ = {isa = PBXBuildFile; fileRef = 43AD2FA620A3D65600A3428D /* autocolante-decorativo-tomate-esborrachado-1692.png */; };
+		43AD2FAB20A3DB7900A3428D /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 43AD2FA820A3DB7900A3428D /* icon.png */; };
+		43AD2FAC20A3DB7900A3428D /* music-player-pause-lines.png in Resources */ = {isa = PBXBuildFile; fileRef = 43AD2FA920A3DB7900A3428D /* music-player-pause-lines.png */; };
+		43AD2FAD20A3DB7900A3428D /* reload.png in Resources */ = {isa = PBXBuildFile; fileRef = 43AD2FAA20A3DB7900A3428D /* reload.png */; };
+		A756CCBF20A547D200C422E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A756CCBE20A547D200C422E8 /* Main.storyboard */; };
+		A756CCC320A5484800C422E8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A756CCC220A5484800C422E8 /* ViewController.swift */; };
+		A756CCC520A55A1D00C422E8 /* hand-drawn-food-seamless-pattern-sketchn-doodle-stock-rare-images-ideas-floor-tiles-tile-subway.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A756CCC420A55A1D00C422E8 /* hand-drawn-food-seamless-pattern-sketchn-doodle-stock-rare-images-ideas-floor-tiles-tile-subway.jpg */; };
+		A756CCC720A5645C00C422E8 /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png in Resources */ = {isa = PBXBuildFile; fileRef = A756CCC620A5645C00C422E8 /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png */; };
+		A756CCC920A603B600C422E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A756CCC820A603B600C422E8 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		43AD2F8720A3D17B00A3428D /* PomodoroTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PomodoroTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43AD2F8A20A3D17B00A3428D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		43AD2F9120A3D17B00A3428D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		43AD2F9620A3D17B00A3428D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43AD2FA220A3D50800A3428D /* tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato.png; sourceTree = "<group>"; };
+		43AD2FA420A3D56E00A3428D /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "871cc5a8a5f00c21047fd7342403b4d3-tomato.png"; sourceTree = "<group>"; };
+		43AD2FA620A3D65600A3428D /* autocolante-decorativo-tomate-esborrachado-1692.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "autocolante-decorativo-tomate-esborrachado-1692.png"; sourceTree = "<group>"; };
+		43AD2FA820A3DB7900A3428D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		43AD2FA920A3DB7900A3428D /* music-player-pause-lines.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "music-player-pause-lines.png"; sourceTree = "<group>"; };
+		43AD2FAA20A3DB7900A3428D /* reload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reload.png; sourceTree = "<group>"; };
+		A756CCBE20A547D200C422E8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		A756CCC220A5484800C422E8 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A756CCC420A55A1D00C422E8 /* hand-drawn-food-seamless-pattern-sketchn-doodle-stock-rare-images-ideas-floor-tiles-tile-subway.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hand-drawn-food-seamless-pattern-sketchn-doodle-stock-rare-images-ideas-floor-tiles-tile-subway.jpg"; sourceTree = "<group>"; };
+		A756CCC620A5645C00C422E8 /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "871cc5a8a5f00c21047fd7342403b4d3-tomato.png"; sourceTree = "<group>"; };
+		A756CCC820A603B600C422E8 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		43AD2F8420A3D17B00A3428D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		43AD2F7E20A3D17B00A3428D = {
+			isa = PBXGroup;
+			children = (
+				43AD2F8920A3D17B00A3428D /* PomodoroTimer */,
+				43AD2F8820A3D17B00A3428D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		43AD2F8820A3D17B00A3428D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				43AD2F8720A3D17B00A3428D /* PomodoroTimer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		43AD2F8920A3D17B00A3428D /* PomodoroTimer */ = {
+			isa = PBXGroup;
+			children = (
+				43AD2F8A20A3D17B00A3428D /* AppDelegate.swift */,
+				A756CCC220A5484800C422E8 /* ViewController.swift */,
+				43AD2F9120A3D17B00A3428D /* Assets.xcassets */,
+				A756CCBE20A547D200C422E8 /* Main.storyboard */,
+				A756CCC820A603B600C422E8 /* LaunchScreen.storyboard */,
+				43AD2F9620A3D17B00A3428D /* Info.plist */,
+				43AD2FA220A3D50800A3428D /* tomato.png */,
+				43AD2FA420A3D56E00A3428D /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png */,
+				A756CCC620A5645C00C422E8 /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png */,
+				43AD2FA620A3D65600A3428D /* autocolante-decorativo-tomate-esborrachado-1692.png */,
+				43AD2FA820A3DB7900A3428D /* icon.png */,
+				43AD2FA920A3DB7900A3428D /* music-player-pause-lines.png */,
+				43AD2FAA20A3DB7900A3428D /* reload.png */,
+				A756CCC420A55A1D00C422E8 /* hand-drawn-food-seamless-pattern-sketchn-doodle-stock-rare-images-ideas-floor-tiles-tile-subway.jpg */,
+			);
+			path = PomodoroTimer;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		43AD2F8620A3D17B00A3428D /* PomodoroTimer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 43AD2F9920A3D17B00A3428D /* Build configuration list for PBXNativeTarget "PomodoroTimer" */;
+			buildPhases = (
+				43AD2F8320A3D17B00A3428D /* Sources */,
+				43AD2F8420A3D17B00A3428D /* Frameworks */,
+				43AD2F8520A3D17B00A3428D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PomodoroTimer;
+			productName = PomodoroTimer;
+			productReference = 43AD2F8720A3D17B00A3428D /* PomodoroTimer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		43AD2F7F20A3D17B00A3428D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = Erick;
+				TargetAttributes = {
+					43AD2F8620A3D17B00A3428D = {
+						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 1030;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 43AD2F8220A3D17B00A3428D /* Build configuration list for PBXProject "PomodoroTimer" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 43AD2F7E20A3D17B00A3428D;
+			productRefGroup = 43AD2F8820A3D17B00A3428D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43AD2F8620A3D17B00A3428D /* PomodoroTimer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		43AD2F8520A3D17B00A3428D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43AD2FAD20A3DB7900A3428D /* reload.png in Resources */,
+				A756CCC520A55A1D00C422E8 /* hand-drawn-food-seamless-pattern-sketchn-doodle-stock-rare-images-ideas-floor-tiles-tile-subway.jpg in Resources */,
+				43AD2FAB20A3DB7900A3428D /* icon.png in Resources */,
+				43AD2F9220A3D17B00A3428D /* Assets.xcassets in Resources */,
+				43AD2FA720A3D65600A3428D /* autocolante-decorativo-tomate-esborrachado-1692.png in Resources */,
+				43AD2FA320A3D50800A3428D /* tomato.png in Resources */,
+				A756CCC720A5645C00C422E8 /* 871cc5a8a5f00c21047fd7342403b4d3-tomato.png in Resources */,
+				A756CCBF20A547D200C422E8 /* Main.storyboard in Resources */,
+				43AD2FAC20A3DB7900A3428D /* music-player-pause-lines.png in Resources */,
+				A756CCC920A603B600C422E8 /* LaunchScreen.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		43AD2F8320A3D17B00A3428D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A756CCC320A5484800C422E8 /* ViewController.swift in Sources */,
+				43AD2F8B20A3D17B00A3428D /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		43AD2F9720A3D17B00A3428D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		43AD2F9820A3D17B00A3428D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		43AD2F9A20A3D17B00A3428D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CPH3P2RQS6;
+				INFOPLIST_FILE = PomodoroTimer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.costasilva.PomodoroTimer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		43AD2F9B20A3D17B00A3428D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CPH3P2RQS6;
+				INFOPLIST_FILE = PomodoroTimer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.costasilva.PomodoroTimer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		43AD2F8220A3D17B00A3428D /* Build configuration list for PBXProject "PomodoroTimer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43AD2F9720A3D17B00A3428D /* Debug */,
+				43AD2F9820A3D17B00A3428D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		43AD2F9920A3D17B00A3428D /* Build configuration list for PBXNativeTarget "PomodoroTimer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43AD2F9A20A3D17B00A3428D /* Debug */,
+				43AD2F9B20A3D17B00A3428D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 43AD2F7F20A3D17B00A3428D /* Project object */;
+}
